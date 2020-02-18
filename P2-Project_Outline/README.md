@@ -21,6 +21,7 @@ of item to automatically find it's location and other information in the databas
 
 Create New Object: User will be able to create a new object in the database.
 
+-For employees or visitors or the museum
 ### Technologies
 Include Technologies here:
 Java
