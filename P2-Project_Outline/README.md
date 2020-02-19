@@ -9,6 +9,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Include overview here:
 Boeing or Museum App: use Boeing archives site or a museum from the area and make the database from the site.
+The User will be able to look through the database and use it whether it's a visitor or an employee.
 -using an image in a database to find the object in the collection.
 -Museum had API and download and mess around with it 
 
@@ -16,12 +17,11 @@ Boeing or Museum App: use Boeing archives site or a museum from the area and mak
 Include Features here:
 Search: User will be able to search for results in database
 
-Hover over Pic: User will be able to hover with mouse over image 
-of item to automatically find it's location and other information in the database.
+Hover over Image: User will be able to hover with mouse over image 
+of item to automatically find its location and other information in the database.
 
 Create New Object: User will be able to create a new object in the database.
 
--For employees or visitors or the museum
 ### Technologies
 Include Technologies here:
 Java
