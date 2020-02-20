@@ -8,9 +8,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here:
+A few months ago, our museum staff tried to do inventory of the collection.  There were some we had photos of but could 
+not find information or location.  We found everything eventually but it was frustrating.
+That's where I got the idea for the app.
+It's a museum app where you can use an image in a database to find the object in the collection.
+If the mouse hover over the image or you click the image, a window on the screen will automatically appear that will 
+have the information about the object in the collection, including where it is in the collection.
+It is still unknown if this will be an internal app for a musueum worker, an external database for anyone to use
+online, such as a customer in the museum.  It could also be for a business.  For this app, I could use Boeing since they
+have their history of their plane models already on a database on their site.
+
+Here's a shorter version:
+
 Boeing or Museum App: use Boeing archives site or a museum from the area and make the database from the site.
 The User will be able to look through the database and use it whether it's a visitor or an employee.
--using an image in a database to find the object in the collection.
 -Museum had API and download and mess around with it 
 
 ### Features
