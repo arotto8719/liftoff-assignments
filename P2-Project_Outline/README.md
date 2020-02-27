@@ -33,7 +33,7 @@ of item to automatically find its location and other information in the database
 
 Create New Object: User will be able to create a new object in the database.
 
-Edit Object: User will be able to edit information on new or current object in the database.
+Edit Object: User will be able to edit information on any object in the database.
 
 Save Object: User will be able to save new or edited object in the database.
 
