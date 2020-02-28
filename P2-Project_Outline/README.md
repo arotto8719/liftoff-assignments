@@ -26,10 +26,11 @@ The User will be able to look through the database and use it whether it's a vis
 
 ### Features
 Include Features here:
-Search: User will be able to search for results in database
 
 Hover over Image: User will be able to hover with mouse over image 
 of item to automatically find its location and other information in the database.
+
+Search: User will be able to search for results in database.
 
 Create New Object: User will be able to create a new object in the database.
 
@@ -39,6 +40,7 @@ Save Object: User will be able to save new or edited object in the database.
 
 ### Technologies
 Include Technologies here:
+
 Java
 Spring Boot
 MySQL
@@ -47,9 +49,12 @@ Thymeleaf templates
 
 ### What you’ll have to learn
 Include What you’ll have to learn here:
+
 Everything all over again
+
 ### Project Tracker
 Link to your Trello board here
+
 https://trello.com/b/Fga7Vy7T/angelas-coding-board
 
 -GitHub Issues are enabled!
